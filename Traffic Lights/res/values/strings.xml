@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Traffic Lights</string>
+    <string name="yellow_light">Yellow light on</string>
+    <string name="red_light">red_light</string>
+    <string name="green_light">green light</string>
+    <string name="red_red">red_light</string>
+    <string name="Red">Red</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Green">Green</string>
+
+</resources>
